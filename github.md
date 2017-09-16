@@ -5,7 +5,7 @@
 - `git init`
 - git을 시작한다
 ##현재 상태 확인
-- `git status'
+- `git status`
 ## 3. 파일추가
 - `git add [파일명]` : 파일 하나 추가
 - `git add . ` : 모든 파일을 추가
